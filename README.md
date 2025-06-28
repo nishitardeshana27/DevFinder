@@ -1,12 +1,45 @@
-# React + Vite
+# 🚀 DevFinder – GitHub Profile Search App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+DevFinder is a modern React web app that allows users to search for GitHub profiles and view real-time details using the GitHub API. It is built with **React**, **Vite**, and **Tailwind CSS**, offering a fast and responsive user interface with a clean design.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌐 Live Demo
 
-## Expanding the ESLint configuration
+🔗 [Click here to view the live app](https://devfinder-j768.vercel.app/)  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Features
+
+- 🔍 Search GitHub users by username
+- 📊 View avatar, bio, followers, following, and public repo stats
+- ⚙️ Error handling for invalid users
+- ⚡ Fast performance with Vite and React
+- 📱 Responsive on all screen sizes
+
+---
+
+## 🛠️ Tech Stack
+
+- ⚛️ React (with Hooks)
+- ⚡ Vite (fast bundler)
+- 🎨 Tailwind CSS
+- 🔗 GitHub REST API
+
+---
+
+## Learning Objectives
+Practice fetching real API data in React
+
+Understand component-based design
+
+Manage UI state and user input effectively
+
+Apply Tailwind CSS for real-world styling
+
+---
+
+🙋‍♂️ Author
+Made with 💙 by Nishit Ardeshana.
+
